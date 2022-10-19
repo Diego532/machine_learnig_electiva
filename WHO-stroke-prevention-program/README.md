@@ -1,0 +1,4 @@
+3. WHO stroke prevention program
+
+La Organización Mundial de la Salud (OMS) se encuentra realizando un estudio para conocer cuáles son los factores de riesgo de padecer un Accidente Cerebrovascular (ACV). La OMS cuenta con una base de datos de pacientes con información sobre la salud de cada paciente y sus condiciones de riesgo de padecer un ACV, como hipertensión, enfermedad cardíaca, nivel promedio de glucosa sérica, índice de masa corporal, entre otros. Usted ha sido contratado por la OMS para desarrollar un modelo que permita predecir el riesgo de un paciente de padecer de un ACV en función de sus variables de riesgo. Esto le permitirá a la OMS educar a los pacientes sobre los factores de riesgo, así como recomendar medidas preventivas para los pacientes con riesgo de ACV que le permitan mejorar su condición y llevar una vida saludable.
+
